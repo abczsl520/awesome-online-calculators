@@ -21,6 +21,7 @@ A curated list of the best free online calculators organized by category.
 - [Percentage Calculator](https://go-calc.com/tools/percentage-calculator/) - All percentage calculations
 - [Fraction Calculator](https://go-calc.com/tools/fraction-calculator/) - Add, subtract, multiply fractions
 - [GPA Calculator](https://go-calc.com/tools/gpa-calculator/) - Calculate grade point average
+- [Sourdough Calculator](https://zequnweb.com/zh/tools/sourdough-calculator/) - Free sourdough calculator: enter total dough weight, hydration, starter percentage, starter hydration and salt percentage; outputs flour, water, mature starter and salt, deducting the starter's own flour and water, using baker's percentages on total flour. It does not calculate fermentation or baking time.
 
 ## Contributing
 PRs welcome! Add your favorite free calculator tools.
