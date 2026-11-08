@@ -8,6 +8,7 @@ A curated list of the best free online calculators organized by category.
 - [Loan Calculator](https://go-calc.com/tools/loan-calculator/) - Compare loan options
 
 ## Health & Fitness
+- [Bike Size Calculator](https://bike-size.com/calculators/bike-size) - Estimate a starting bicycle frame size from height and inseam; educational sizing guidance, not a full bike fit
 - [BMI Calculator](https://go-calc.com/tools/bmi-calculator/) - Body Mass Index
 - [Calorie Calculator](https://go-calc.com/tools/calorie-calculator/) - Daily calorie needs
 - [Body Fat Calculator](https://go-calc.com/tools/body-fat-calculator/) - Estimate body fat percentage
