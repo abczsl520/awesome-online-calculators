@@ -18,6 +18,7 @@ A curated list of the best free online calculators organized by category.
 - [Miles to Km](https://conv-kit.com/tools/miles-to-km/) - Distance conversion
 
 ## Math Calculators
+- [Calculation Hub Percentage Calculator](https://calculation-hub.com/math/percentage) - Calculate percentages, parts, and totals with an explained formula.
 - [Percentage Calculator](https://go-calc.com/tools/percentage-calculator/) - All percentage calculations
 - [Fraction Calculator](https://go-calc.com/tools/fraction-calculator/) - Add, subtract, multiply fractions
 - [GPA Calculator](https://go-calc.com/tools/gpa-calculator/) - Calculate grade point average
